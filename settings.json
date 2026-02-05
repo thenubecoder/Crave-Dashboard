@@ -1,11 +1,11 @@
 {
     "host": "localhost",
-    "port": "8000",
-    "password": "",
-    "client_id": "",
-    "client_secret_id": "",
+    "port": "3000",
+    "password": "A5J8fnhMATCsXANdLnxVQGyUQlSf8FsYVuwbjwWLJxHV2pc-Q4GH7LXvpAsZDimV",
+    "client_id": "1361368702012100688",
+    "client_secret_id": "dg9nZiIbwEavTHCDETvHpUzxy3PlYSRO",
     "secret_key": "",
-    "redirect_url": "http://127.0.0.1:8000/callback",
+    "redirect_url": "http://localhost:3000/callback",
     "logging": {
         "file": {
             "path": "./logs",
